@@ -1,0 +1,7 @@
+/env
+main.py
+/chrome_profile
+/dist
+/build
+/fanficapi.egg-info
+MANIFEST.in
